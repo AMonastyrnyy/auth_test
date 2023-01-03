@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "244882134268",
+    "project_id": "flutterfire-auth-6d59e",
+    "storage_bucket": "flutterfire-auth-6d59e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244882134268:android:fdb25ef5228c0ec02e3379",
+        "android_client_info": {
+          "package_name": "com.example.auth_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244882134268-e3e9bibdp1ufj9n41nh27ro2ki9dld5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANT6D59pCEv8xM7UDz1LXW4a2Y9JL-sfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244882134268-e3e9bibdp1ufj9n41nh27ro2ki9dld5c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "244882134268-4laod8nr3iosomeegghilq4ml566r7ua.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.authTest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244882134268:android:8f0c0f63559c609a2e3379",
+        "android_client_info": {
+          "package_name": "com.example.test2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244882134268-e3e9bibdp1ufj9n41nh27ro2ki9dld5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANT6D59pCEv8xM7UDz1LXW4a2Y9JL-sfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244882134268-e3e9bibdp1ufj9n41nh27ro2ki9dld5c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "244882134268-4laod8nr3iosomeegghilq4ml566r7ua.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.authTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
